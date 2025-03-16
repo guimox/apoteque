@@ -1,3 +1,3 @@
-module github.com/guimox/vauta
+module apoteque
 
 go 1.23.2
